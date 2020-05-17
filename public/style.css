@@ -1,0 +1,13 @@
+h2{
+    text-align:center;
+}
+.centre{
+    margin: 0 auto;
+}
+form {
+    width: 70%;
+}
+.form-control{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
